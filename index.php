@@ -67,7 +67,7 @@
       </div>
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
-          <h2>Basic Application Information</h2>
+          <h2>Basic Helpful Application Information</h2>
           <table class="table table-striped table-bordered table-hover">
             <thead>
               <tr>
